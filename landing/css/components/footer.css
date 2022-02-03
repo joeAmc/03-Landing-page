@@ -1,0 +1,38 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+
+/* Utilities */
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #236c48;
+  height: 122px;
+  width: 100%;
+
+}
+
+
+ul {
+  list-style-type: none;
+    text-align: center;
+    padding: 0px;
+  }
+
+li {
+
+  padding: 10px;
+  display: inline-block;
+  color: white;
+  font-size: 40px;
+}
+
+li:hover {
+  color: rgb(221, 220, 220);
+}
